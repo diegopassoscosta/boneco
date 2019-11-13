@@ -1,0 +1,11 @@
+C:\Users\080101286\source\repos\Boneco\Boneco\bin\Debug\netcoreapp2.2\Boneco.deps.json
+C:\Users\080101286\source\repos\Boneco\Boneco\bin\Debug\netcoreapp2.2\Boneco.runtimeconfig.json
+C:\Users\080101286\source\repos\Boneco\Boneco\bin\Debug\netcoreapp2.2\Boneco.runtimeconfig.dev.json
+C:\Users\080101286\source\repos\Boneco\Boneco\bin\Debug\netcoreapp2.2\Boneco.dll
+C:\Users\080101286\source\repos\Boneco\Boneco\bin\Debug\netcoreapp2.2\Boneco.pdb
+C:\Users\080101286\source\repos\Boneco\Boneco\obj\Debug\netcoreapp2.2\Boneco.csprojAssemblyReference.cache
+C:\Users\080101286\source\repos\Boneco\Boneco\obj\Debug\netcoreapp2.2\Boneco.csproj.CoreCompileInputs.cache
+C:\Users\080101286\source\repos\Boneco\Boneco\obj\Debug\netcoreapp2.2\Boneco.AssemblyInfoInputs.cache
+C:\Users\080101286\source\repos\Boneco\Boneco\obj\Debug\netcoreapp2.2\Boneco.AssemblyInfo.cs
+C:\Users\080101286\source\repos\Boneco\Boneco\obj\Debug\netcoreapp2.2\Boneco.dll
+C:\Users\080101286\source\repos\Boneco\Boneco\obj\Debug\netcoreapp2.2\Boneco.pdb
